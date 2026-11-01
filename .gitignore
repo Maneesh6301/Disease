@@ -1,0 +1,7 @@
+improved_disease_dataset.csv
+venv/
+myvenv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
